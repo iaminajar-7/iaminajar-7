@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iaminajar-7
+- 👋 Hi, I’m Jarin Tasnim Chowdhury
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on Web devolopment and Cyber security
